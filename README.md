@@ -1,6 +1,6 @@
 Overview
 ---
-This repository holds the files for the final project for Data & Databases in Columbia's M.S. in Data Journalism. Using Selenium and requests, I scrape the [most popular songs] (https://www.ultimate-guitar.com/explore?order=hitstotal_desc) on [www.ultimate-guitar.com](www.ultimate-guitar.com/), a website dedicated to learning how to play songs on the guitar through community-contributed tabs and chords. I also include artist country of origin to output into an interactive map.
+This repository holds the files for the final project for Data & Databases in Columbia's M.S. in Data Journalism. Using Selenium and requests, I scrape the [most popular songs](https://www.ultimate-guitar.com/explore?order=hitstotal_desc) on [www.ultimate-guitar.com](www.ultimate-guitar.com/), a website dedicated to learning how to play songs on the guitar through community-contributed tabs and chords. I also include artist country of origin to output into an interactive map.
 
 Goals
 ---
